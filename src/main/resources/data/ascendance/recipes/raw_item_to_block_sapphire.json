@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"###",
+		"###"
+  ],
+  "key": {
+		"#": {
+			"item": "ascendance:item_raw_sapphire"
+		}
+	},
+  "result": {
+    "item": "ascendance:block_raw_sapphire"
+  }
+}

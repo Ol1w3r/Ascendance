@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"## ",
+		" - ",
+		" - "
+	],
+	"key": {
+		"#": {
+			"item": "ascendance:item_refined_peridot"
+		},
+		"-": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "ascendance:item_hoe_peridot",
+		"count": 1
+	}
+}

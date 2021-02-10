@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"## ",
+		"#- ",
+		" - "
+	],
+	"key": {
+		"#": {
+			"item": "ascendance:item_refined_phosphophyllite"
+		},
+		"-": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "ascendance:item_axe_phosphophyllite",
+		"count": 1
+	}
+}

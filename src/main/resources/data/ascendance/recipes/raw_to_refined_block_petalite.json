@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:block_raw_petalite"
+    },
+    "result": "ascendance:block_refined_petalite",
+    "count": 1
+}

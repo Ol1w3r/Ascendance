@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "ascendance:item_pickaxe_amber",
+    "ascendance:item_pickaxe_amethyst",
+    "ascendance:item_pickaxe_azurite",
+    "ascendance:item_pickaxe_onyx",
+    "ascendance:item_pickaxe_peridot",
+    "ascendance:item_pickaxe_petalite",
+    "ascendance:item_pickaxe_phosphophyllite",
+    "ascendance:item_pickaxe_ruby",
+    "ascendance:item_pickaxe_sapphire"
+  ]
+}

@@ -1,0 +1,16 @@
+copy amber_egg.json amber_egg_1.json
+copy amber_egg.json amber_egg_2.json
+copy amethyst_egg.json amethyst_egg_1.json
+copy amethyst_egg.json amethyst_egg_2.json
+copy azurite_egg.json azurite_egg_1.json
+copy azurite_egg.json azurite_egg_2.json
+copy peridot_egg.json peridot_egg_1.json
+copy peridot_egg.json peridot_egg_2.json
+copy petalite_egg.json petalite_egg_1.json
+copy petalite_egg.json petalite_egg_2.json
+copy phosphophyllite_egg.json phosphophyllite_egg_1.json
+copy phosphophyllite_egg.json phosphophyllite_egg_2.json
+copy ruby_egg.json ruby_egg_1.json
+copy ruby_egg.json ruby_egg_2.json
+copy sapphire_egg.json sapphire_egg_1.json
+copy sapphire_egg.json sapphire_egg_2.json

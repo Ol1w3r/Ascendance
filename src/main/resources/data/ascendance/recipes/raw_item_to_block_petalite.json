@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"###",
+		"###"
+  ],
+  "key": {
+		"#": {
+			"item": "ascendance:item_raw_petalite"
+		}
+	},
+  "result": {
+    "item": "ascendance:block_raw_petalite"
+  }
+}

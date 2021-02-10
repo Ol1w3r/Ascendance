@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "ascendance:item_shovel_amber",
+    "ascendance:item_shovel_amethyst",
+    "ascendance:item_shovel_azurite",
+    "ascendance:item_shovel_onyx",
+    "ascendance:item_shovel_peridot",
+    "ascendance:item_shovel_petalite",
+    "ascendance:item_shovel_phosphophyllite",
+    "ascendance:item_shovel_ruby",
+    "ascendance:item_shovel_sapphire"
+  ]
+}

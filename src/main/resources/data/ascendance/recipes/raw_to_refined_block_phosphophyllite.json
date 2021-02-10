@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:block_raw_phosphophyllite"
+    },
+    "result": "ascendance:block_refined_phosphophyllite",
+    "count": 1
+}

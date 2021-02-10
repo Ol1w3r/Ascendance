@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" # ",
+		" - ",
+		" - "
+	],
+	"key": {
+		"#": {
+			"item": "ascendance:item_refined_azurite"
+		},
+		"-": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "ascendance:item_shovel_azurite",
+		"count": 1
+	}
+}

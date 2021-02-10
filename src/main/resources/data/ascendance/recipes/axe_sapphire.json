@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"## ",
+		"#- ",
+		" - "
+	],
+	"key": {
+		"#": {
+			"item": "ascendance:item_refined_sapphire"
+		},
+		"-": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "ascendance:item_axe_sapphire",
+		"count": 1
+	}
+}

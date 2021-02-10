@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:item_raw_peridot"
+    },
+    "result": "ascendance:item_refined_peridot",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:block_raw_azurite"
+    },
+    "result": "ascendance:block_refined_azurite",
+    "count": 1
+}

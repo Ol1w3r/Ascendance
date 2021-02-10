@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:block_raw_ruby"
+    },
+    "result": "ascendance:block_refined_ruby",
+    "count": 1
+}

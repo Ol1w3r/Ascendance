@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "ascendance:item_axe_amber",
+    "ascendance:item_axe_amethyst",
+    "ascendance:item_axe_azurite",
+    "ascendance:item_axe_onyx",
+    "ascendance:item_axe_peridot",
+    "ascendance:item_axe_petalite",
+    "ascendance:item_axe_phosphophyllite",
+    "ascendance:item_axe_ruby",
+    "ascendance:item_axe_sapphire"
+  ]
+}

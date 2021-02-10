@@ -1,0 +1,8 @@
+copy item_pickaxe_amber.json item_sword_amber.json
+copy item_pickaxe_amethyst.json item_sword_amethyst.json
+copy item_pickaxe_azurite.json item_sword_azurite.json
+copy item_pickaxe_onyx.json item_sword_onyx.json
+copy item_pickaxe_peridot.json item_sword_peridot.json
+copy item_pickaxe_petalite.json item_sword_petalite.json
+copy item_pickaxe_ruby.json item_sword_ruby.json
+copy item_pickaxe_sapphire.json item_sword_sapphire.json

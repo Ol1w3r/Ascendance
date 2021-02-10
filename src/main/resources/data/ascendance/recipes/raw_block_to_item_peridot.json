@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ascendance:block_raw_peridot"
+    }
+  ],
+  "result": {
+    "item": "ascendance:item_raw_peridot",
+    "count": 9
+  }
+}

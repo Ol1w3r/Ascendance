@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ascendance:block_refined_amber"
+    }
+  ],
+  "result": {
+    "item": "ascendance:item_refined_amber",
+    "count": 9
+  }
+}

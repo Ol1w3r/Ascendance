@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" # ",
+		" # ",
+		" - "
+	],
+	"key": {
+		"#": {
+			"item": "ascendance:item_refined_amethyst"
+		},
+		"-": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "ascendance:item_sword_amethyst",
+		"count": 1
+	}
+}

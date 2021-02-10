@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:item_raw_onyx"
+    },
+    "result": "ascendance:item_refined_onyx",
+    "count": 1
+}

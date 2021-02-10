@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "magicsquared:items/item_peridot_sword"
+	}
+}

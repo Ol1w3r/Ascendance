@@ -1,0 +1,26 @@
+copy block_ore_amethyst.json block_ore_amber.json
+copy block_ore_amethyst.json block_ore_azurite.json
+copy block_ore_amethyst.json block_ore_onyx.json
+copy block_ore_amethyst.json block_ore_peridot.json
+copy block_ore_amethyst.json block_ore_petalite.json
+copy block_ore_amethyst.json block_ore_phosphophyllite.json
+copy block_ore_amethyst.json block_ore_ruby_ore.json
+copy block_ore_amethyst.json block_ore_sapphire.json
+
+copy block_raw_amethyst.json block_raw_amber.json
+copy block_raw_amethyst.json block_raw_azurite.json
+copy block_raw_amethyst.json block_raw_onyx.json
+copy block_raw_amethyst.json block_raw_peridot.json
+copy block_raw_amethyst.json block_raw_petalite.json
+copy block_raw_amethyst.json block_raw_phosphophyllite.json
+copy block_raw_amethyst.json block_raw_ruby_ore.json
+copy block_raw_amethyst.json block_raw_sapphire.json
+
+copy block_refined_amethyst.json block_refined_amber.json
+copy block_refined_amethyst.json block_refined_azurite.json
+copy block_refined_amethyst.json block_refined_onyx.json
+copy block_refined_amethyst.json block_refined_peridot.json
+copy block_refined_amethyst.json block_refined_petalite.json
+copy block_refined_amethyst.json block_refined_phosphophyllite.json
+copy block_refined_amethyst.json block_refined_ruby_ore.json
+copy block_refined_amethyst.json block_refined_sapphire.json

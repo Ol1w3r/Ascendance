@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:item_raw_amethyst"
+    },
+    "result": "ascendance:item_refined_amethyst",
+    "count": 1
+}

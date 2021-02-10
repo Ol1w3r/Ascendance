@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:item_raw_sapphire"
+    },
+    "result": "ascendance:item_refined_sapphire",
+    "count": 1
+}

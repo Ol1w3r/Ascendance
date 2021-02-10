@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ascendance:block_refined_phosphophyllite"
+    }
+  ],
+  "result": {
+    "item": "ascendance:item_refined_phosphophyllite",
+    "count": 9
+  }
+}

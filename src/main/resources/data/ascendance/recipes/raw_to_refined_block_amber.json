@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "ascendance:block_raw_amber"
+    },
+    "result": "ascendance:block_refined_amber",
+    "count": 1
+}

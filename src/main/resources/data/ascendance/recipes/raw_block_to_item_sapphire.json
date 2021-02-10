@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ascendance:block_raw_sapphire"
+    }
+  ],
+  "result": {
+    "item": "ascendance:item_raw_sapphire",
+    "count": 9
+  }
+}

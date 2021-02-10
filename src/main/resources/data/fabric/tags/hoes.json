@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "ascendance:item_hoe_amber",
+    "ascendance:item_hoe_amethyst",
+    "ascendance:item_hoe_azurite",
+    "ascendance:item_hoe_onyx",
+    "ascendance:item_hoe_peridot",
+    "ascendance:item_hoe_petalite",
+    "ascendance:item_hoe_phosphophyllite",
+    "ascendance:item_hoe_ruby",
+    "ascendance:item_hoe_sapphire"
+  ]
+}

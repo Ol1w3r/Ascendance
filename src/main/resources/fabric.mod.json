@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "ascendance",
+  "version": "${version}",
+
+  "name": "Ascendance",
+  "description": "Aim for the sky",
+  "authors": [
+    "OliW3r (Discord: OliWerWieWasWo#8852)"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/ascendance/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ascendance.Main"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
